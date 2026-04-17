@@ -77,7 +77,6 @@ Java, Spring Boot, Spring Security, MySQL, Hibernate/JPA, REST API, Swagger, JUn
 📱 Phone: +48 511 144 859  
 
 🔗 LinkedIn: https://www.linkedin.com/in/hryhorii-martynkian-171759357/
-🔗 GitHub:  https://github.com/GrigoriiMartinkian
 
 ---
 
